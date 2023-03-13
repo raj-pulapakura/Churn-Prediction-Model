@@ -1,6 +1,7 @@
 # Churn-Prediction-Model
 Churn Prediction Model with EDA, Feature Engineering and testing out different models.
-Test it out: 
+
+Test it out: https://www.kaggle.com/code/rajpulapakura/churn-prediction-model/
 
 ## What is churn prediction?
 
@@ -42,3 +43,5 @@ The project includes the files used for data analysis and model testing. I condu
 ## How can you test it out?
 
 I have summarised the best results and data analysis in a kaggle notebook which you can find by clicking this link:
+
+https://www.kaggle.com/code/rajpulapakura/churn-prediction-model/
