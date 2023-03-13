@@ -1,5 +1,5 @@
 # Churn-Prediction-Model
-Churn Prediction Model with EDA, Feature Engineering and testing out different models. Based on a kaggle notebook.
+Churn Prediction Model with EDA, Feature Engineering and testing out different models.
 Test it out: 
 
 ## What is churn prediction?
