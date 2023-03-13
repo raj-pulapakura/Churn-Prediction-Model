@@ -4,7 +4,7 @@ Test it out:
 
 ## What is churn prediction?
 
-Churn prediction is the process by which businesses attempt to predict which customers are at high risk of leaving the company or cancelling a subscription to a service, based on their behaviour with your product.
+Churn prediction is the process by which a business attempts to predict which customers are at high risk of leaving the company or cancelling a subscription to a service, based on their behaviour with the business' product.
 
 ## Why is it important?
 
